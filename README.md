@@ -16,4 +16,4 @@ UI 개발 및 주요 기능 구현
 + 기획중
 
 ## 다운로드 링크
-[Download](http://poinguinie.dothome.co.kr/data/work_tool.zip){:target="_blank"}
+<a href="[https://www.google.co.kr/](http://poinguinie.dothome.co.kr/data/work_tool.zip)" target="_blank">Download </a>
